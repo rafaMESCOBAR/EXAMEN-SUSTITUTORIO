@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LaboratorioCalificadoSustitutorio</string>
+    <string name="error_unknown">An unknown error occurred</string>
+    <string name="error_no_internet">No internet connection. Please check your network.</string>
+    <string name="error_unexpected">An unexpected error occurred</string>
+    <string name="error_empty_list">No posts found</string>
+    <string name="sms_number">+51925137361</string>
+    <string name="email_address">victor.saico@tecsup.edu.pe</string>
+    <string name="email_subject">Post Body</string>
+    <string name="post_title">Post Title</string>
+    <string name="post_body">Post Body</string>
+</resources>
